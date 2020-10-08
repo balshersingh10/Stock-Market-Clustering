@@ -1,4 +1,4 @@
-![Stocks](https://www.investors.com/wp-content/uploads/2019/01/Stock-MarketUptrend-04-adobe.jpg)
+![Stocks](https://codecondo.com/wp-content/uploads/2018/02/Stock-Market-Clustering-Project.jpg)
 # Stock Market Clustering Using Unsupervised Machine Learning Techniques
 We obtained the Stock Market dataset from 'yahoo' and used Jupyter Notebook as the platform for the purpose of coding. Our methodology involves use of clustering techniques like **'K-means Clustering'**(with/without using PCA).
 ## What is K-Means?
